@@ -1,6 +1,6 @@
 # Hi there! 👋  
 
-I'm a Aspiring **full-stack JavaScript developer** — learning **Node.js (ESM), streams, and Tailwind CSS**; I enjoy building **low-level solutions** from scratch and will adopt packages once I'm comfortable.  
+I'm a Aspiring **full-stack JavaScript developer** — learning **Node.js (ESM), streams, Databases(Postgresql) and User Authentication**; I enjoy building **low-level solutions** from scratch and will adopt packages once I'm comfortable.  
 
 ## 🚀 My Latest Projects
 - **[File Shifter](https://github.com/usmandev24/file_shifter)** – File Shifter is a full stack porject. It runs as a local server and alow you to share files seemlessly between devices on Local Network or connected to same WIFI. The transfer speed is maximum.
