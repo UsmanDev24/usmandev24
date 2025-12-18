@@ -11,6 +11,7 @@ I’m always learning and experimenting with new technologies. Feel free to chec
 
 📫 **Let's connect!**  
 [GitHub](https://github.com/usmandev24) |
+[Personal Website Usman Ghani](https://www.usman-ghani.dev)
 
 <!---
 usmandev24/usmandev24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
