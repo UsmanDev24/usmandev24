@@ -8,10 +8,12 @@ I'm a Aspiring **full-stack JavaScript developer** — learning **Node.js (ESM),
 - **[Exploding Balloons](https://github.com/usmandev24/Exploding_Balloons)** – A fun and interactive web game.  
 
 I’m always learning and experimenting with new technologies. Feel free to check out my repositories and connect with me!  
+## My Personal Website
+- **Know about me and my work by visiting my website**
+ **[usman-ghani.dev](https://usman-ghani.dev)**
+ 
+- [GitHub](https://github.com/usmandev24)
 
-📫 **Let's connect!**  
-[GitHub](https://github.com/usmandev24) |
-[Personal Website Usman Ghani](https://www.usman-ghani.dev)
 
 <!---
 usmandev24/usmandev24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
