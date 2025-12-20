@@ -9,10 +9,9 @@ I'm a Aspiring **full-stack JavaScript developer** — learning **Node.js (ESM),
 
 I’m always learning and experimenting with new technologies. Feel free to check out my repositories and connect with me!  
 ## My Personal Website
-- **Know about me and my work by visiting my website**
- **[usman-ghani.dev](https://usman-ghani.dev)**
- 
-- [GitHub](https://github.com/usmandev24)
+Know about me and my work by visiting my website
+- **[usman-ghani.dev](https://usman-ghani.dev)**
+
 
 
 <!---
