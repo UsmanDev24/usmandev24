@@ -1,19 +1,45 @@
-# Hi there! 👋  
+# Hi, I'm Usman Ghani 👋
 
-I'm a Aspiring **full-stack JavaScript developer** — learning **Node.js (ESM), streams, Databases(Postgresql) and User Authentication**; I enjoy building **low-level solutions** from scratch and will adopt packages once I'm comfortable.  
+I am an **Aspiring Full-Stack JavaScript Developer** with a focus on building robust, low-level solutions from the ground up. I believe in mastering the core—**Node.js (ESM), Streams, and Database Architecture**—before reaching for abstractions.
 
-## 🚀 My Latest Projects
-- **[File Shifter](https://github.com/usmandev24/file_shifter)** – File Shifter is a full stack porject. It runs as a local server and alow you to share files seemlessly between devices on Local Network or connected to same WIFI. The transfer speed is maximum.
-- **[CalculatorX](https://github.com/usmandev24/calculatorX)** – A modern and responsive calculator app.  
-- **[Exploding Balloons](https://github.com/usmandev24/Exploding_Balloons)** – A fun and interactive web game.  
+### 🛠 Tech Stack & Interests
+* 💻 **Backend:** Node.js (ESM), PostgreSQL, User Authentication (JWT/OAuth)
+* ⚙️ **Systems:** Streams & Buffers, Low-level API design
+* 🎨 **Frontend:** Modern UI/UX, Responsive Design
+* 🚀 **Currently Learning:** DevOps & Deployment Pipelines
 
-I’m always learning and experimenting with new technologies. Feel free to check out my repositories and connect with me!  
-## My Personal Website
-Know about me and my work by visiting my website
-- **[usman-ghani.dev](https://usman-ghani.dev)**
+---
+
+## 🚀 Featured Projects
+
+### 🏗 [PostBase](https://github.com/usmandev24/postbase)
+A high-performance content platform designed to showcase full-stack architecture and real-time interactions. 
+* **Focus:** Scaling architecture and modern UI.
+* **Status:** Currently being used as my sandbox for mastering **DevOps** workflows.
+
+### ⚡ [File Shifter](https://github.com/usmandev24/file_shifter)
+A local-network file transfer utility that turns your machine into a high-speed server.
+* **Focus:** Seamless P2P-style sharing across devices on the same Wi-Fi.
+* **Tech:** Optimized for maximum transfer speeds using **Node.js streams**.
+
+### 🧮 [CalculatorX](https://github.com/usmandev24/calculatorX)
+A sleek, modern, and fully responsive calculator app.
+* **Focus:** Clean code and intuitive user interface design.
+
+### 🎈 [Exploding Balloons](https://github.com/usmandev24/Exploding_Balloons)
+An interactive web-based game built to experiment with DOM manipulation and state logic.
+
+---
+
+## 🌐 Connect With Me
+I’m always experimenting with new technologies and looking for interesting problems to solve.
+
+* **Portfolio:** [usman-ghani.dev](https://usman-ghani.dev)
 
 
+---
 
+> "I enjoy building low-level solutions from scratch and adopt packages once I truly understand the underlying logic."
 <!---
 usmandev24/usmandev24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
