@@ -1,6 +1,6 @@
 # Hi, I'm Usman Ghani 👋
 
-I am an **Aspiring Full-Stack JavaScript Developer** with a focus on building robust, low-level solutions from the ground up. I believe in mastering the core—**Node.js (ESM), Streams, and Database Architecture**—before reaching for abstractions.
+I am an **Full-Stack JavaScript Developer** with a focus on building robust, low-level solutions from the ground up —**Node.js (ESM), Streams, and Database Architecture**—before reaching for abstractions.
 
 ---
 
@@ -14,11 +14,9 @@ A high-performance content platform designed to showcase full-stack architecture
 ### ⚡ [File Shifter](https://github.com/usmandev24/file_shifter)
 A local-network file transfer utility that turns your machine into a high-speed server.
 * **Focus:** Seamless P2P-style sharing across devices on the same Wi-Fi.
-* **Tech:** Optimized for maximum transfer speeds using **Node.js streams**.
 
 ### 🧮 [CalculatorX](https://github.com/usmandev24/calculatorX)
-A sleek, modern, and fully responsive calculator app.
-* **Focus:** Clean code and intuitive user interface design.
+A sleek, modern, and fully responsive calculator app. **Focus:** Clean code and intuitive user interface design.
 
 ### 🎈 [Exploding Balloons](https://github.com/usmandev24/Exploding_Balloons)
 An interactive web-based game built to experiment with DOM manipulation and state logic.
@@ -26,10 +24,8 @@ An interactive web-based game built to experiment with DOM manipulation and stat
 ---
 
 ## 🌐 Connect With Me
-I’m always experimenting with new technologies and looking for interesting problems to solve.
 
 * **Portfolio:** [usman-ghani.dev](https://usman-ghani.dev)
-
 
 ---
 
