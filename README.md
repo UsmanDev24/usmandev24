@@ -2,12 +2,6 @@
 
 I am an **Aspiring Full-Stack JavaScript Developer** with a focus on building robust, low-level solutions from the ground up. I believe in mastering the core—**Node.js (ESM), Streams, and Database Architecture**—before reaching for abstractions.
 
-### 🛠 Tech Stack & Interests
-* 💻 **Backend:** Node.js (ESM), PostgreSQL, User Authentication (JWT/OAuth)
-* ⚙️ **Systems:** Streams & Buffers, Low-level API design
-* 🎨 **Frontend:** Modern UI/UX, Responsive Design
-* 🚀 **Currently Learning:** DevOps & Deployment Pipelines
-
 ---
 
 ## 🚀 Featured Projects
