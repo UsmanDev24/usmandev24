@@ -1,6 +1,6 @@
 # Hi, I'm Usman Ghani 👋
 
-I am an **Full-Stack JavaScript Developer** with a focus on building robust, low-level solutions from the ground up —**Node.js (ESM), Streams, and Database Architecture**—before reaching for abstractions.
+I am an **Full-Stack JavaScript Developer** with a focus on learning DevOps.
 
 ---
 
