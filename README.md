@@ -33,11 +33,7 @@ An interactive web-based game built to experiment with DOM manipulation and stat
 ![GitHub Streak](https://streak-stats.demolab.com/?user=UsmanDev24)
 
 ---
-## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=UsmanDev24&column=4)
-
----
 > "I enjoy building low-level solutions from scratch and adopt packages once I truly understand the underlying logic."
 <!---
 usmandev24/usmandev24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
