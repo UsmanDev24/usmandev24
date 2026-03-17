@@ -28,11 +28,7 @@ An interactive web-based game built to experiment with DOM manipulation and stat
 * **Portfolio:** [usman-ghani.dev](https://usman-ghani.dev)
 
 ---
-## 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=UsmanDev24)
-
----
 
 > "I enjoy building low-level solutions from scratch and adopt packages once I truly understand the underlying logic."
 <!---
