@@ -6,7 +6,7 @@ I am an **Full-Stack JavaScript Developer** with a focus on learning DevOps.
 
 ## 🚀 Featured Projects
 
-### 🏗 [PostBase](https://github.com/usmandev24/postbase)
+### 🏗 [userPost](https://github.com/usmandev24/userpost)
 A high-performance content platform designed to showcase full-stack architecture and real-time interactions. 
 * **Focus:** Scaling architecture and modern UI.
 * **Status:** Currently being used as my sandbox for mastering **DevOps** workflows.
