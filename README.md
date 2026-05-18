@@ -14,13 +14,7 @@ A high-performance content platform designed to showcase full-stack architecture
 ### ⚡ [File Shifter](https://github.com/usmandev24/file_shifter)
 A local-network file transfer utility that turns your machine into a high-speed server.
 * **Focus:** Seamless P2P-style sharing across devices on the same Wi-Fi.
-
-### 🧮 [CalculatorX](https://github.com/usmandev24/calculatorX)
-A sleek, modern, and fully responsive calculator app. **Focus:** Clean code and intuitive user interface design.
-
-### 🎈 [Exploding Balloons](https://github.com/usmandev24/Exploding_Balloons)
-An interactive web-based game built to experiment with DOM manipulation and state logic.
-
+=
 ---
 
 ## 🌐 Connect With Me
